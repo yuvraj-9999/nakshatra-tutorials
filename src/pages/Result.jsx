@@ -1,4 +1,4 @@
-import { resultData } from "../data/resultdata";
+import { resultData } from "../data/resultData";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Reveal from "../components/Reveal";
