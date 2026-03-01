@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { coursesData } from "../data/CoursesData";
+import { coursesData } from "../data/coursesData";
 import { motion, AnimatePresence } from "framer-motion"
 import Reveal from "../components/Reveal";
 
